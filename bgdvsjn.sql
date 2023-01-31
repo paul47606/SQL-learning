@@ -1,0 +1,1 @@
+SELECT * FROM pk.lets_get_it;
